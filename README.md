@@ -3,11 +3,11 @@
 
 ### [Live Site](https://web-shopping-d8198.web.app/)
 
-<img src="https://github.com/shubham0794x/web-shopping/blob/main/public/1.png">
+<img src="https://github.com/GingerDragon7/web-shopping/blob/main/public/1.png">
 
-<img src="https://github.com/shubham0794x/web-shopping/blob/main/public/2.png">
+<img src="https://github.com/GingerDragon7/web-shopping/blob/main/public/2.png">
 
-<img src="https://github.com/shubham0794x/web-shopping/blob/main/public/3.png">
+<img src="https://github.com/GingerDragon7/web-shopping/blob/main/public/3.png">
 
 
 This is an Web Application which is an e-commerce site. This Frontend is built in React with help of context API and other React Hooks. In this build used Context API (useReducer, createContext) to get data directly from the app component to the needy component. Used material UI for some icons. And Used the flexbox for the CSS parts. We can also include the login with the firebase system.
@@ -31,7 +31,7 @@ ReactJs, Material UI, Context API, React-Courrency-Format, Firebase
 To run the application locally; clone the repo, install dependencies and run the app.
 
 ```
-$ git clone https://github.com/shubham0794x/web-shopping
+$ git clone https://github.com/GingerDragon7/ecommerce-react
 $ cd web-shopping
 $ npm && npm install
 ```
