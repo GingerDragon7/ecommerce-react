@@ -3,11 +3,9 @@
 
 ### [Live Site](https://web-shopping-d8198.web.app/)
 
-<img src="https://github.com/GingerDragon7/web-shopping/blob/main/public/1.png">
+![ecommerce-app](https://user-images.githubusercontent.com/17198965/166987327-d28adc0a-9d95-422f-929c-ef5bff22219b.png)
 
-<img src="https://github.com/GingerDragon7/web-shopping/blob/main/public/2.png">
-
-<img src="https://github.com/GingerDragon7/web-shopping/blob/main/public/3.png">
+![web-app2](https://user-images.githubusercontent.com/17198965/166987356-694618a7-7c1c-41fd-a8a2-def41e5b05d9.png)
 
 
 This is an Web Application which is an e-commerce site. This Frontend is built in React with help of context API and other React Hooks. In this build used Context API (useReducer, createContext) to get data directly from the app component to the needy component. Used material UI for some icons. And Used the flexbox for the CSS parts. We can also include the login with the firebase system.
